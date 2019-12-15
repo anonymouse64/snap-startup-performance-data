@@ -1,0 +1,3629 @@
+{
+    "Runs": [
+        {
+            "ExecveTiming": {
+                "TotalTime": 7167984962,
+                "ExeRuntimes": [
+                    {
+                        "Start": "2019-12-15T09:45:09.191929101-06:00",
+                        "Exe": "/usr/sbin/apparmor_parser",
+                        "TotalSec": 14770984
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.215792894-06:00",
+                        "Exe": "/usr/lib/snapd/snap-seccomp",
+                        "TotalSec": 8973121
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.253207921-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2279043
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.256994009-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2228975
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.260863065-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2424001
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.264775037-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2714872
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.268929004-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2321004
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.272886991-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2207040
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.276510953-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2093076
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.280025959-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2360105
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.282686948-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1897096
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.284876108-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1976966
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.287136077-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2071857
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.289510965-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1891136
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.291690111-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1913785
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.293888092-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1873016
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.296044111-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2294778
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.298636913-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2026081
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.301002025-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1862049
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.303220987-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2197980
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.305736064-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1890897
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.307940959-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2038002
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.310322046-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1899957
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.313846111-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2017974
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.317455053-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2125024
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.320791006-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2352952
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.324525117-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1788854
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.414017915-06:00",
+                        "Exe": "snap-update-ns",
+                        "TotalSec": 145914077
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.56617093-06:00",
+                        "Exe": "snap-update-ns",
+                        "TotalSec": 12928962
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.177297115-06:00",
+                        "Exe": "/usr/bin/snap",
+                        "TotalSec": 406022787
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.583319902-06:00",
+                        "Exe": "/usr/lib/snapd/snap-exec",
+                        "TotalSec": 8652210
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.591972112-06:00",
+                        "Exe": "/snap/chromium/x1/snap/command-chain/snapcraft-runner",
+                        "TotalSec": 2316951
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.594289064-06:00",
+                        "Exe": "/snap/chromium/x1/command-chromium.wrapper",
+                        "TotalSec": 6000995
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.610210895-06:00",
+                        "Exe": "/bin/date",
+                        "TotalSec": 3913164
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.625905036-06:00",
+                        "Exe": "/usr/bin/getent",
+                        "TotalSec": 8411884
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.636164903-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 6125211
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.643829107-06:00",
+                        "Exe": "/bin/grep",
+                        "TotalSec": 8234977
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.654618978-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 17663002
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.673346042-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 18533945
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.692472934-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 12442111
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.731923103-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 11741876
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.747118949-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15351057
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.764447927-06:00",
+                        "Exe": "/bin/sed",
+                        "TotalSec": 13776063
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.779433012-06:00",
+                        "Exe": "/bin/cp",
+                        "TotalSec": 19445896
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.800915002-06:00",
+                        "Exe": "/usr/bin/md5sum",
+                        "TotalSec": 17877101
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.819752931-06:00",
+                        "Exe": "/usr/bin/md5sum",
+                        "TotalSec": 14786958
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.862077951-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15414953
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.881074905-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 9274005
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.893697977-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16166925
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.913453102-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15724897
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.932379961-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 17045021
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.952702045-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 10699033
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.966804981-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 18074989
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.988184928-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 12772083
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.006063938-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 15659093
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.022398948-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 21260023
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.063641071-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15214920
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.079659938-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 18349170
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.101012945-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 12274026
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.10047698-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19952058
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.100291013-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 20725011
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.113876104-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 21577835
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.121066093-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15534877
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.121628999-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19788980
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.138806104-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 16952991
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.137665987-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 18959045
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.142828941-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 18699169
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.159439086-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 16335010
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.158198118-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 17606973
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.17631793-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 15406131
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.179441928-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 19667148
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.162240028-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/glib-2.0/gio-querymodules",
+                        "TotalSec": 43154001
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.195632934-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 14919996
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.202768087-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 15443801
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.211297035-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20866870
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.221795082-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20190954
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.232960939-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15221118
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.251436948-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 12236118
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.245470046-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21822929
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.157767057-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/gdk-pixbuf-query-loaders",
+                        "TotalSec": 120483875
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.270802021-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20677089
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.25703907-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 36114931
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.249264955-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 44814109
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.298069953-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 16934156
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.294887065-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20285844
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.318707942-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 17887115
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.315844058-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 21034002
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.304240942-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 37599086
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.295069932-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 58950185
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.339977025-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 22100925
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.357919931-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 18187046
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.365741968-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 19144058
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.363420009-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 24417877
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.354976892-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 42995214
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.38795495-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 23221969
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.39884305-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17434835
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.419543981-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 9884119
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.414922952-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 22067070
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.429929971-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 13365030
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.424161911-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 27472972
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.417160987-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 43149948
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.439982891-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21301031
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.464143037-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 16421079
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.46509695-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 15782117
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.470510959-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 28290987
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.461322069-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 37708997
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.499711036-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 18668889
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.522360086-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 18304824
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.528847932-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 27976036
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.519596099-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 41306018
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.561685085-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15676021
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.582941055-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 18254995
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.601824045-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20320892
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.622713088-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16618013
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.642466068-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 16369819
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.586775064-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 92787027
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.578330993-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 101924896
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.68087697-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16020059
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.699978113-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 15837907
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.716404914-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19204139
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.736423969-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16438007
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.753633975-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19670963
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.774079084-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15834808
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.791269063-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 15219926
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.80746603-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19258022
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.827555894-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16844987
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.845406055-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/libgtk-3-0/gtk-query-immodules-3.0",
+                        "TotalSec": 81429958
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:09.60029006-06:00",
+                        "Exe": "/snap/chromium/x1/bin/desktop-launch",
+                        "TotalSec": 1329048871
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.939852952-06:00",
+                        "Exe": "/usr/bin/id",
+                        "TotalSec": 17886161
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.957817077-06:00",
+                        "Exe": "/usr/bin/getent",
+                        "TotalSec": 12717962
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.939073085-06:00",
+                        "Exe": "/usr/bin/cut",
+                        "TotalSec": 31811952
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.972946882-06:00",
+                        "Exe": "/usr/bin/dbus-send",
+                        "TotalSec": 22830009
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.929338932-06:00",
+                        "Exe": "/snap/chromium/x1/bin/chromium.launcher",
+                        "TotalSec": 66859006
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:14.14351201-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/xdg-settings",
+                        "TotalSec": 278949
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:14.14379096-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/xdg-settings",
+                        "TotalSec": 147104
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:14.143938064-06:00",
+                        "Exe": "/snap/chromium/x1/sbin/xdg-settings",
+                        "TotalSec": 129938
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:14.144068002-06:00",
+                        "Exe": "/snap/chromium/x1/bin/xdg-settings",
+                        "TotalSec": 128984
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:14.144196987-06:00",
+                        "Exe": "/usr/local/sbin/xdg-settings",
+                        "TotalSec": 129938
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:14.144326925-06:00",
+                        "Exe": "/usr/local/bin/xdg-settings",
+                        "TotalSec": 128984
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:14.144455909-06:00",
+                        "Exe": "/usr/sbin/xdg-settings",
+                        "TotalSec": 152111
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:14.169261932-06:00",
+                        "Exe": "/usr/bin/dbus-send",
+                        "TotalSec": 45387983
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:14.14460802-06:00",
+                        "Exe": "/usr/bin/xdg-settings",
+                        "TotalSec": 70590019
+                    },
+                    {
+                        "Start": "2019-12-15T09:45:10.996197938-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/chromium-browser/chrome",
+                        "TotalSec": 5330110073
+                    }
+                ]
+            },
+            "TimeToDisplay": 7108427053,
+            "TimeToRun": 7167984962,
+            "Errors": null
+        },
+        {
+            "ExecveTiming": {
+                "TotalTime": 6646831990,
+                "ExeRuntimes": [
+                    {
+                        "Start": "2019-12-15T09:46:14.425134897-06:00",
+                        "Exe": "/usr/sbin/apparmor_parser",
+                        "TotalSec": 21702051
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.455523967-06:00",
+                        "Exe": "/usr/lib/snapd/snap-seccomp",
+                        "TotalSec": 11208057
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.496473073-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2816915
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.500936031-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2671003
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.504913091-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2044916
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.508322954-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1934051
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.51178193-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2374172
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.515666961-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2180099
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.519193887-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2235174
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.522989034-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1626968
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.524878025-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1687049
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.527019023-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2179861
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.529567003-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2348899
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.532258033-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2130031
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.534759998-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2382040
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.537564039-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2228975
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.540205955-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1640081
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.542495965-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2443075
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.54530096-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2465963
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.548137903-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1635074
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.550158977-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2113103
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.552627086-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2062797
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.555037975-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1868963
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.558398962-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1879930
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.561773061-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2106904
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.565121889-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1889228
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.568135976-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1949071
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.649064064-06:00",
+                        "Exe": "snap-update-ns",
+                        "TotalSec": 154310941
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.80935502-06:00",
+                        "Exe": "snap-update-ns",
+                        "TotalSec": 11442899
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.410123109-06:00",
+                        "Exe": "/usr/bin/snap",
+                        "TotalSec": 414846897
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.824970006-06:00",
+                        "Exe": "/usr/lib/snapd/snap-exec",
+                        "TotalSec": 7926940
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.832896947-06:00",
+                        "Exe": "/snap/chromium/x1/snap/command-chain/snapcraft-runner",
+                        "TotalSec": 1991987
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.834888935-06:00",
+                        "Exe": "/snap/chromium/x1/command-chromium.wrapper",
+                        "TotalSec": 5542993
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.850672006-06:00",
+                        "Exe": "/bin/date",
+                        "TotalSec": 5635023
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.868510007-06:00",
+                        "Exe": "/usr/bin/getent",
+                        "TotalSec": 7625102
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.878236055-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 9157896
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.88894391-06:00",
+                        "Exe": "/bin/grep",
+                        "TotalSec": 7879018
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.899941921-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 17060041
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.918351888-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 17100095
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.936151981-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 15559911
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.979902982-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16911983
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.999947071-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16872882
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.01960802-06:00",
+                        "Exe": "/bin/sed",
+                        "TotalSec": 19114017
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.040338993-06:00",
+                        "Exe": "/bin/cp",
+                        "TotalSec": 22521018
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.065692901-06:00",
+                        "Exe": "/usr/bin/md5sum",
+                        "TotalSec": 15971183
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.082578897-06:00",
+                        "Exe": "/usr/bin/md5sum",
+                        "TotalSec": 15103101
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.128266096-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 17906904
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.149657011-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16663074
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.170030117-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 17800807
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.191370964-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 18470048
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.213511943-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16910076
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.233762025-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16135931
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.253611087-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16628980
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.273591041-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16340970
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.295418024-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 16215085
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.312246084-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19259929
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.349544048-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17148971
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.367479085-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 16032934
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.386867046-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 15969991
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.385740995-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 18763065
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.386239051-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 21344900
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.408107995-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 11056900
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.40507698-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19113063
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.403326034-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 23022890
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.420311927-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 19390106
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.425518035-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17729043
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.42930293-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 16390085
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.441623926-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 18372058
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.449181079-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 19394874
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.460757017-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 18095970
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.472141981-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 14250993
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.443845033-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/glib-2.0/gio-querymodules",
+                        "TotalSec": 43514013
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.483294963-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 15860080
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.490212917-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20142078
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.499959945-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19643068
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.514048099-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 19836902
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.520432949-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16024112
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.441020965-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/gdk-pixbuf-query-loaders",
+                        "TotalSec": 104160070
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.539921998-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 12528896
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.536957025-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 22480010
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.552992105-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 11499881
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.565244913-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15843152
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.54539895-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 37479162
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.537482023-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 45722961
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.562916994-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21297931
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.584573984-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 15861988
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.587867021-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 19515991
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.601134061-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19652843
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.590208053-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 33380985
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.6107831-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 15342950
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.581935882-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 57804107
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.629724979-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 22299051
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.643117904-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 17775058
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.655392885-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 15320062
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.648478031-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 31055927
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.640706062-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 40433883
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.673913002-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20046949
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.682024955-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17698049
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.704372882-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 18091201
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.697535991-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 28320074
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.707361936-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 31214952
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.700583934-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 43701171
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.729419946-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 18736124
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.745084047-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17358064
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.751780033-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21653890
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.766304969-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 16763925
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.771323919-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 28230190
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.763360977-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 37913084
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.802038908-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15860080
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.822002887-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 17651081
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.826781988-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 29311895
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.818835973-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 40041923
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.859653949-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16404151
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.881944894-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 17789125
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.900357007-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20493030
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.921356916-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17563104
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.941895961-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 18259048
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.885874032-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 94013929
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.876986026-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 105586051
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:15.983231067-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16432046
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.002773046-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 15979051
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.019319057-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 18733024
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.038589-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15506982
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.054842948-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20040035
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.075661897-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16254186
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.093264102-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 16419887
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.110285043-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19262075
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.130491971-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16994953
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.148925065-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/libgtk-3-0/gtk-query-immodules-3.0",
+                        "TotalSec": 84610939
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:14.840431928-06:00",
+                        "Exe": "/snap/chromium/x1/bin/desktop-launch",
+                        "TotalSec": 1393956184
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.244781017-06:00",
+                        "Exe": "/usr/bin/id",
+                        "TotalSec": 21199941
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.266068935-06:00",
+                        "Exe": "/usr/bin/getent",
+                        "TotalSec": 14266014
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.244879007-06:00",
+                        "Exe": "/usr/bin/cut",
+                        "TotalSec": 35762071
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.282183885-06:00",
+                        "Exe": "/usr/bin/dbus-send",
+                        "TotalSec": 21351099
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.234388113-06:00",
+                        "Exe": "/snap/chromium/x1/bin/chromium.launcher",
+                        "TotalSec": 69486856
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:19.365917921-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/xdg-settings",
+                        "TotalSec": 302076
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:19.366219997-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/xdg-settings",
+                        "TotalSec": 169992
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:19.366389989-06:00",
+                        "Exe": "/snap/chromium/x1/sbin/xdg-settings",
+                        "TotalSec": 147104
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:19.366537094-06:00",
+                        "Exe": "/snap/chromium/x1/bin/xdg-settings",
+                        "TotalSec": 150918
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:19.366688013-06:00",
+                        "Exe": "/usr/local/sbin/xdg-settings",
+                        "TotalSec": 149965
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:19.366837978-06:00",
+                        "Exe": "/usr/local/bin/xdg-settings",
+                        "TotalSec": 152111
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:19.366990089-06:00",
+                        "Exe": "/usr/sbin/xdg-settings",
+                        "TotalSec": 149965
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:19.385416984-06:00",
+                        "Exe": "/usr/bin/dbus-send",
+                        "TotalSec": 38980007
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:19.367140054-06:00",
+                        "Exe": "/usr/bin/xdg-settings",
+                        "TotalSec": 57730913
+                    },
+                    {
+                        "Start": "2019-12-15T09:46:16.303874969-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/chromium-browser/chrome",
+                        "TotalSec": 4721043109
+                    }
+                ]
+            },
+            "TimeToDisplay": 6603621675,
+            "TimeToRun": 6646831990,
+            "Errors": null
+        },
+        {
+            "ExecveTiming": {
+                "TotalTime": 7192457915,
+                "ExeRuntimes": [
+                    {
+                        "Start": "2019-12-15T09:47:19.509376049-06:00",
+                        "Exe": "/usr/sbin/apparmor_parser",
+                        "TotalSec": 22690057
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.540754079-06:00",
+                        "Exe": "/usr/lib/snapd/snap-seccomp",
+                        "TotalSec": 10717868
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.580593109-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2499818
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.584461927-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2187013
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.587975025-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2229928
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.591516971-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1809120
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.594706058-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2213954
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.598340988-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2110004
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.601911067-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2033948
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.605240106-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2060890
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.607583045-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2141952
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.609999895-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1942157
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.612327098-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2154827
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.614814043-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2058982
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.617166996-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1866102
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.619359016-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2120018
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.621774911-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2403020
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.624455928-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1928091
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.626703023-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1832962
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.628887891-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1882076
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.631076097-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1887798
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.633271932-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1899957
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.635494947-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1883029
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.638865947-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1913070
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.642254114-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1881837
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.645224094-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1911878
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.648231029-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1896858
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.740099906-06:00",
+                        "Exe": "snap-update-ns",
+                        "TotalSec": 164888143
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.910783052-06:00",
+                        "Exe": "snap-update-ns",
+                        "TotalSec": 10580062
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.492866992-06:00",
+                        "Exe": "/usr/bin/snap",
+                        "TotalSec": 432918071
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.925785064-06:00",
+                        "Exe": "/usr/lib/snapd/snap-exec",
+                        "TotalSec": 8151054
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.933936119-06:00",
+                        "Exe": "/snap/chromium/x1/snap/command-chain/snapcraft-runner",
+                        "TotalSec": 2015829
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.935951948-06:00",
+                        "Exe": "/snap/chromium/x1/command-chromium.wrapper",
+                        "TotalSec": 5491971
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.951396942-06:00",
+                        "Exe": "/bin/date",
+                        "TotalSec": 5259990
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.972187042-06:00",
+                        "Exe": "/usr/bin/getent",
+                        "TotalSec": 11821031
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.986387014-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 8966922
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.997302055-06:00",
+                        "Exe": "/bin/grep",
+                        "TotalSec": 7524013
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.00782299-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 15746116
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.024574041-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 16834974
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.042114973-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 16415119
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.088082075-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16149044
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.107511997-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 11317968
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.121265888-06:00",
+                        "Exe": "/bin/sed",
+                        "TotalSec": 18868207
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.141725063-06:00",
+                        "Exe": "/bin/cp",
+                        "TotalSec": 21659851
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.166134119-06:00",
+                        "Exe": "/usr/bin/md5sum",
+                        "TotalSec": 15695810
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.182822942-06:00",
+                        "Exe": "/usr/bin/md5sum",
+                        "TotalSec": 15223979
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.227925062-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16594886
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.248018026-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16856908
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.268441915-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16136169
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.288461923-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16592979
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.309039115-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16701936
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.329114913-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15213012
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.347799062-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15172004
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.36630392-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 17239093
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.388875007-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 16607046
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.406114101-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19302845
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.446913003-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16988039
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.464797019-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 15698909
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.483108997-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 16340970
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.482841968-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 19138097
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.482583999-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 24283885
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.502562999-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19736051
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.499912023-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 23123025
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.507484912-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16509056
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.525051116-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 19406795
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.525899887-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 19336223
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.523592948-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 21684169
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.546310901-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 13591051
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.549015998-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 19210100
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.560463905-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 17688035
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.57182908-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20584821
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.545981884-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/glib-2.0/gio-querymodules",
+                        "TotalSec": 50250053
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.582247018-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 16674995
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.595911979-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 17127990
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.600034952-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 21209955
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.616816997-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 16079902
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.622106075-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15508890
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.640882015-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 12048006
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.636225938-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21847009
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.545661926-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/gdk-pixbuf-query-loaders",
+                        "TotalSec": 128509044
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.661631107-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20565986
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.646606922-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 37192106
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.638695955-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 52907943
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.685655117-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 23769855
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.695113897-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 18951177
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.712300062-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 16118049
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.714803934-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 18244028
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.698190927-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 35757064
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.692323923-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 57116985
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.731947898-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20994186
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.753691911-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 19670009
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.756319046-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 22677898
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.759052991-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 20759105
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.750395059-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 44795036
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.78263688-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 22372007
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.796051025-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16804933
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.816687107-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 13259887
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.809020996-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 22771120
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.830485105-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 14317989
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.822606086-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 30924797
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.835228919-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21703004
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.81379199-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 46828031
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.864288091-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 12898921
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.860852956-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 22661924
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.869095087-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 26765823
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.861527919-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 46774148
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.912070035-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 18220901
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.917706966-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 30550956
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.90933609-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 43143987
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.953185081-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16171932
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.974639892-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 18554210
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.993822097-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19615888
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.014034032-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16309976
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.033687114-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 16816854
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.051275014-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19234895
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.978696107-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 93267917
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:20.970313072-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 118510007
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.092024087-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 15771865
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.108769893-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 21241188
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.130604028-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15985012
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.147418022-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 18431901
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.166620969-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15748023
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.183509111-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 16062974
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.200222969-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 21100044
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.222148895-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16640186
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.239918947-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/libgtk-3-0/gtk-query-immodules-3.0",
+                        "TotalSec": 81341981
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:19.94144392-06:00",
+                        "Exe": "/snap/chromium/x1/bin/desktop-launch",
+                        "TotalSec": 1382508993
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.334985971-06:00",
+                        "Exe": "/usr/bin/id",
+                        "TotalSec": 21085023
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.356143951-06:00",
+                        "Exe": "/usr/bin/getent",
+                        "TotalSec": 13487100
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.334635972-06:00",
+                        "Exe": "/usr/bin/cut",
+                        "TotalSec": 35365104
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.371256113-06:00",
+                        "Exe": "/usr/bin/dbus-send",
+                        "TotalSec": 22534847
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.323952913-06:00",
+                        "Exe": "/snap/chromium/x1/bin/chromium.launcher",
+                        "TotalSec": 70233106
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:24.679558038-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/xdg-settings",
+                        "TotalSec": 284910
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:24.679842948-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/xdg-settings",
+                        "TotalSec": 121116
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:24.679964065-06:00",
+                        "Exe": "/snap/chromium/x1/sbin/xdg-settings",
+                        "TotalSec": 102996
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:24.680067062-06:00",
+                        "Exe": "/snap/chromium/x1/bin/xdg-settings",
+                        "TotalSec": 107049
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:24.680174112-06:00",
+                        "Exe": "/usr/local/sbin/xdg-settings",
+                        "TotalSec": 106811
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:24.680280923-06:00",
+                        "Exe": "/usr/local/bin/xdg-settings",
+                        "TotalSec": 102043
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:24.680382966-06:00",
+                        "Exe": "/usr/sbin/xdg-settings",
+                        "TotalSec": 103950
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:24.703850984-06:00",
+                        "Exe": "/usr/bin/dbus-send",
+                        "TotalSec": 45040130
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:24.680486917-06:00",
+                        "Exe": "/usr/bin/xdg-settings",
+                        "TotalSec": 68979024
+                    },
+                    {
+                        "Start": "2019-12-15T09:47:21.394186019-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/chromium-browser/chrome",
+                        "TotalSec": 5268020868
+                    }
+                ]
+            },
+            "TimeToDisplay": 7128722069,
+            "TimeToRun": 7192457915,
+            "Errors": null
+        },
+        {
+            "ExecveTiming": {
+                "TotalTime": 7146328926,
+                "ExeRuntimes": [
+                    {
+                        "Start": "2019-12-15T09:48:23.16071105-06:00",
+                        "Exe": "/usr/sbin/apparmor_parser",
+                        "TotalSec": 15323877
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.185404062-06:00",
+                        "Exe": "/usr/lib/snapd/snap-seccomp",
+                        "TotalSec": 11951923
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.220469951-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2468109
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.223858118-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2529859
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.227477073-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2209901
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.230724096-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2270936
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.234148025-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2201080
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.237421989-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1863956
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.240237951-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1923084
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.243145942-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1817941
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.245234012-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1883029
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.247395038-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1755952
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.24941802-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1857042
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.251543045-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1935005
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.253760099-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1918792
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.255976915-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2109050
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.258678913-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2259969
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.261248111-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1997947
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.263876914-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2026081
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.266288042-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2066850
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.268688917-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2099037
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.27109909-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2010822
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.27345705-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2280950
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.27684307-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2132892
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.280122995-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2192020
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.283185005-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2135992
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.286319017-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2321004
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.366134881-06:00",
+                        "Exe": "snap-update-ns",
+                        "TotalSec": 99622011
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.471133947-06:00",
+                        "Exe": "snap-update-ns",
+                        "TotalSec": 8733987
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.1448071-06:00",
+                        "Exe": "/usr/bin/snap",
+                        "TotalSec": 338047981
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.482855081-06:00",
+                        "Exe": "/usr/lib/snapd/snap-exec",
+                        "TotalSec": 5923032
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.488778114-06:00",
+                        "Exe": "/snap/chromium/x1/snap/command-chain/snapcraft-runner",
+                        "TotalSec": 1620769
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.490398883-06:00",
+                        "Exe": "/snap/chromium/x1/command-chromium.wrapper",
+                        "TotalSec": 3875017
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.500597953-06:00",
+                        "Exe": "/bin/date",
+                        "TotalSec": 4023075
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.517193078-06:00",
+                        "Exe": "/usr/bin/getent",
+                        "TotalSec": 10353803
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.529823064-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 9284019
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.541090965-06:00",
+                        "Exe": "/bin/grep",
+                        "TotalSec": 7760047
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.552084922-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 12771129
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.565901994-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 17910957
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.584497928-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 16942024
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.630783081-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 18994808
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.652813911-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 11506080
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.667191028-06:00",
+                        "Exe": "/bin/sed",
+                        "TotalSec": 18234014
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.68685007-06:00",
+                        "Exe": "/bin/cp",
+                        "TotalSec": 17843008
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.70759797-06:00",
+                        "Exe": "/usr/bin/md5sum",
+                        "TotalSec": 13510942
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.721905946-06:00",
+                        "Exe": "/usr/bin/md5sum",
+                        "TotalSec": 13308048
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.762511968-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15556097
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.781197071-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16157865
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.800561904-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16680002
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.820192098-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 11647939
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.835211038-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16682863
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.854940891-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15296220
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.873408079-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16608953
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.893588066-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16067028
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.913906097-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 16131877
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.930641889-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20025014
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.970364093-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15451908
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.986458063-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 16064882
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.005681991-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 15456914
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.004519939-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 19251108
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.004889965-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 22298097
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.02424407-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 12197017
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.021725893-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20771026
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.027735948-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17992973
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.037741899-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17533063
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.045439004-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 14303922
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.046667098-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 14564990
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.062690973-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 15624046
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.06262207-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 16057968
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.082659959-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 12795925
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.078847885-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 18696069
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.102039098-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 16026020
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.099149942-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20635128
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.055820941-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/glib-2.0/gio-querymodules",
+                        "TotalSec": 70336103
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.124104976-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 19387960
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.133806943-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16674041
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.062386035-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/gdk-pixbuf-query-loaders",
+                        "TotalSec": 89261054
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.146898031-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20910024
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.154639959-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 16487121
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.171406984-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 17959117
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.171891927-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19013166
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.159502029-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 37599086
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.15151-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 53854942
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.193505048-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21502017
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.210149049-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 20036935
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.219014883-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21162033
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.214217901-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 32393217
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.206449985-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 44986963
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.252222061-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 11347055
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.243865966-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20282030
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.268455982-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 18660068
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.267802953-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21405935
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.292407035-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 11470079
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.274079084-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 30754804
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.264836072-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 42739868
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.308402061-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16702890
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.307123899-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 18734216
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.330054044-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 18383026
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.329227924-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21317005
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.33565092-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 30192136
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.326236009-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 43540954
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.354563951-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20416021
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.392040967-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 17293930
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.397349119-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 29355764
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.388983011-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 41157960
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.431049108-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17068862
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.452306032-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 17757892
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.456856012-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 29654979
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.44899106-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 41949033
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.491760969-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17599105
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.515604019-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 19669055
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.536005973-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20111083
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.556807041-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16185998
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.518311977-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 73929071
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.510354042-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 82414865
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.576534986-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 16606092
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.593807935-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 21610021
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.616097927-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16436100
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.635829925-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 16563177
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.653156042-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19780874
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.673645973-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17560005
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.691984891-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19281148
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.712105035-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17817020
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.731249094-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 16520977
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.748454093-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20209789
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.769670963-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17481088
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.788363933-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/libgtk-3-0/gtk-query-immodules-3.0",
+                        "TotalSec": 79167127
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:23.4942739-06:00",
+                        "Exe": "/snap/chromium/x1/bin/desktop-launch",
+                        "TotalSec": 1377746105
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.881239891-06:00",
+                        "Exe": "/usr/bin/id",
+                        "TotalSec": 18678188
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.899982929-06:00",
+                        "Exe": "/usr/bin/getent",
+                        "TotalSec": 11981010
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.880904912-06:00",
+                        "Exe": "/usr/bin/cut",
+                        "TotalSec": 31205177
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.913449048-06:00",
+                        "Exe": "/usr/bin/dbus-send",
+                        "TotalSec": 23469924
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.872020006-06:00",
+                        "Exe": "/snap/chromium/x1/bin/chromium.launcher",
+                        "TotalSec": 65260887
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:28.278183937-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/xdg-settings",
+                        "TotalSec": 288963
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:28.2784729-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/xdg-settings",
+                        "TotalSec": 154018
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:28.278626918-06:00",
+                        "Exe": "/snap/chromium/x1/sbin/xdg-settings",
+                        "TotalSec": 136137
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:28.278763055-06:00",
+                        "Exe": "/snap/chromium/x1/bin/xdg-settings",
+                        "TotalSec": 135898
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:28.278898954-06:00",
+                        "Exe": "/usr/local/sbin/xdg-settings",
+                        "TotalSec": 133991
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:28.279032945-06:00",
+                        "Exe": "/usr/local/bin/xdg-settings",
+                        "TotalSec": 137090
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:28.279170036-06:00",
+                        "Exe": "/usr/sbin/xdg-settings",
+                        "TotalSec": 131845
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:28.304553985-06:00",
+                        "Exe": "/usr/bin/dbus-send",
+                        "TotalSec": 44759988
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:28.279301881-06:00",
+                        "Exe": "/usr/bin/xdg-settings",
+                        "TotalSec": 70608139
+                    },
+                    {
+                        "Start": "2019-12-15T09:48:24.937280893-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/chromium-browser/chrome",
+                        "TotalSec": 5336688995
+                    }
+                ]
+            },
+            "TimeToDisplay": 7088483624,
+            "TimeToRun": 7146328926,
+            "Errors": null
+        },
+        {
+            "ExecveTiming": {
+                "TotalTime": 6710221052,
+                "ExeRuntimes": [
+                    {
+                        "Start": "2019-12-15T09:49:27.615195989-06:00",
+                        "Exe": "/usr/sbin/apparmor_parser",
+                        "TotalSec": 22701025
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.647630929-06:00",
+                        "Exe": "/usr/lib/snapd/snap-seccomp",
+                        "TotalSec": 10905981
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.685749053-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2325057
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.689333915-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2365112
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.693001031-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2140998
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.696372032-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2152919
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.699846982-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2100944
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.703283071-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1873970
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.706464052-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1876831
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.709675073-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1870870
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.711838006-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1884937
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.714023113-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1852989
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.716197013-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1906871
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.718398094-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2379894
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.721085071-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2028942
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.72343707-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2264976
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.726031064-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2265930
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.728619098-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1882791
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.730865001-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1967906
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.733201026-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1859903
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.735379934-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1959085
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.737679958-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2074003
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.740088939-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2105951
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.743845939-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 2057075
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.747405052-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1912832
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.750451087-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1884937
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.753480911-06:00",
+                        "Exe": "/usr/lib/snapd/snap-device-helper",
+                        "TotalSec": 1876115
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.834762096-06:00",
+                        "Exe": "snap-update-ns",
+                        "TotalSec": 161578893
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.002866029-06:00",
+                        "Exe": "snap-update-ns",
+                        "TotalSec": 10442972
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:27.597496032-06:00",
+                        "Exe": "/usr/bin/snap",
+                        "TotalSec": 419817924
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.017313957-06:00",
+                        "Exe": "/usr/lib/snapd/snap-exec",
+                        "TotalSec": 7882118
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.025196075-06:00",
+                        "Exe": "/snap/chromium/x1/snap/command-chain/snapcraft-runner",
+                        "TotalSec": 2178907
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.027374982-06:00",
+                        "Exe": "/snap/chromium/x1/command-chromium.wrapper",
+                        "TotalSec": 5932092
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.043776988-06:00",
+                        "Exe": "/bin/date",
+                        "TotalSec": 5909919
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.065526962-06:00",
+                        "Exe": "/usr/bin/getent",
+                        "TotalSec": 10991096
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.079149007-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 6514072
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.087511062-06:00",
+                        "Exe": "/bin/grep",
+                        "TotalSec": 5307912
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.095824956-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 11255979
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.108263969-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 17631053
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.126653909-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 16525983
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.171987056-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 17011880
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.192261934-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16432046
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.211663961-06:00",
+                        "Exe": "/bin/sed",
+                        "TotalSec": 18948078
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.232182025-06:00",
+                        "Exe": "/bin/cp",
+                        "TotalSec": 21590948
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.256503105-06:00",
+                        "Exe": "/usr/bin/md5sum",
+                        "TotalSec": 15917778
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.273454904-06:00",
+                        "Exe": "/usr/bin/md5sum",
+                        "TotalSec": 15509128
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.31845498-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16328096
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.338618993-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 16119003
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.358172893-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15860080
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.377311944-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15712022
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.396244049-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 11704921
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.411601066-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15935897
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.430860996-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15743017
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.449549913-06:00",
+                        "Exe": "/usr/bin/head",
+                        "TotalSec": 15882968
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.470509052-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 15643835
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.486730098-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 17930984
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.523369073-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15702009
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.539804935-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 15064954
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.558005094-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 15579938
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.557307004-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 18373966
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.557146072-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 18687009
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.576191902-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 13509035
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.57647705-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 17719984
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.574152946-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 24386167
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.591317892-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 17902135
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.595561981-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 14987945
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.611038923-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 14888048
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.60118103-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 27749061
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.626534938-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20975112
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.633953094-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 18487930
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.611114978-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/glib-2.0/gio-querymodules",
+                        "TotalSec": 42096138
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.651504993-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 16592025
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.656156063-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 17941951
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.66900897-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19454956
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.677211999-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 18141984
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.689304113-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16930818
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.610400915-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/gdk-pixbuf-query-loaders",
+                        "TotalSec": 99657058
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.699172019-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21080017
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.709371089-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 14222860
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.724436998-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 17756938
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.723620891-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21749019
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.715157985-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 42710065
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.707036018-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 52550077
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.748929023-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 22577047
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.763036012-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 15379905
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.775262117-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 21473884
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.779107093-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20171880
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.769036054-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 37582874
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.760418891-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 56851148
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.800606966-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 19393920
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.820970058-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 18797874
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.823867082-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 19429922
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.827619075-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 28753042
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.818186044-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 41377067
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.846822977-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 12787103
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.860331058-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16760826
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.863275051-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 22389888
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.881494045-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 17880916
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.889092922-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 18473148
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.886008977-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 30127048
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.878026008-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 41903018
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.911271095-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 20397901
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.920706987-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16690969
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.941147089-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 14323949
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.935501098-06:00",
+                        "Exe": "/bin/ls",
+                        "TotalSec": 23048877
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.945923089-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 30071973
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.979521036-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16278028
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.999962091-06:00",
+                        "Exe": "/usr/bin/basename",
+                        "TotalSec": 18332958
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.005510091-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 30002832
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.996992111-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 42451858
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.040317058-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 16116857
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.062597036-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 17638921
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.081127882-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 20381212
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.102029085-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15600919
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.120698928-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 16987085
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.065478086-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/gtk-update-icon-cache",
+                        "TotalSec": 92129945
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.057468891-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/update-icon-caches",
+                        "TotalSec": 100805044
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.158900976-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15715122
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.177766084-06:00",
+                        "Exe": "/usr/bin/dirname",
+                        "TotalSec": 15730857
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.194190979-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 17530918
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.212354898-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15628099
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.229044914-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 19318103
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.249152898-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 15677213
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.266197919-06:00",
+                        "Exe": "/bin/rm",
+                        "TotalSec": 15834093
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.282687902-06:00",
+                        "Exe": "/bin/mkdir",
+                        "TotalSec": 18112182
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.301657915-06:00",
+                        "Exe": "/bin/ln",
+                        "TotalSec": 17742156
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.320501089-06:00",
+                        "Exe": "/snap/chromium/x1/usr/lib/x86_64-linux-gnu/libgtk-3-0/gtk-query-immodules-3.0",
+                        "TotalSec": 81331968
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:28.033307075-06:00",
+                        "Exe": "/snap/chromium/x1/bin/desktop-launch",
+                        "TotalSec": 1369896888
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.413208961-06:00",
+                        "Exe": "/usr/bin/id",
+                        "TotalSec": 14961004
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.428252935-06:00",
+                        "Exe": "/usr/bin/getent",
+                        "TotalSec": 9354114
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.412767887-06:00",
+                        "Exe": "/usr/bin/cut",
+                        "TotalSec": 25157213
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.438951969-06:00",
+                        "Exe": "/usr/bin/dbus-send",
+                        "TotalSec": 23096084
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:29.403203964-06:00",
+                        "Exe": "/snap/chromium/x1/bin/chromium.launcher",
+                        "TotalSec": 59081077
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:32.559279918-06:00",
+                        "Exe": "/snap/chromium/x1/usr/sbin/xdg-settings",
+                        "TotalSec": 262022
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:32.55954194-06:00",
+                        "Exe": "/snap/chromium/x1/usr/bin/xdg-settings",
+                        "TotalSec": 138998
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:32.559680938-06:00",
+                        "Exe": "/snap/chromium/x1/sbin/xdg-settings",
+                        "TotalSec": 130176
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:32.559811115-06:00",
+                        "Exe": "/snap/chromium/x1/bin/xdg-settings",
+                        "TotalSec": 129938
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:32.559941053-06:00",
+                        "Exe": "/usr/local/sbin/xdg-settings",
+                        "TotalSec": 125885
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:32.560066938-06:00",
+                        "Exe": "/usr/local/bin/xdg-settings",
+                        "TotalSec": 125169
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:32.560192108-06:00",
+                        "Exe": "/usr/sbin/xdg-settings",
+                        "TotalSec": 123977
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:32.580790042-06:00",
+                        "Exe": "/usr/bin/dbus-send",
+                        "TotalSec": 41386842
+                    },
+                    {
+                        "Start": "2019-12-15T09:49:32.560316085-06:00",
+                        "Exe": "/usr/bin/xdg-settings",
+                        "TotalSec": 62289953
+                    }
+                ]
+            },
+            "TimeToDisplay": 6650799081,
+            "TimeToRun": 6710221052,
+            "Errors": null
+        }
+    ]
+}
